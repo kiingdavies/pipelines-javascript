@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/DejMSTest/gidihub/_apis/build/status/kiingdavies.pipelines-javascript?branchName=master)](https://dev.azure.com/DejMSTest/gidihub/_build/latest?definitionId=14&branchName=master)
+# [![Build Status](https://dev.azure.com/DejMSTest/gidihub/_apis/build/status/kiingdavies.pipelines-javascript?branchName=master)](https://dev.azure.com/DejMSTest/gidihub/_build/latest?definitionId=14&branchName=master)
 
 # Sample NodeJS application for Azure Pipelines docs
 
